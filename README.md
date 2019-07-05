@@ -1,3 +1,15 @@
+<!-- PROJECT SHIELDS -->
+<p align="center">
+    <a href="https://specflow.org/" alt="SpecFlow">
+        <img alt="Nuget" src="https://img.shields.io/nuget/dt/SpecFlow.svg?label=SpecFlow&logo=SpecFlow"></a>   
+  <a href="http://appium.io" alt="Appium">
+        <img alt="Nuget" src="https://img.shields.io/badge/-Appium-green.svg"></a>
+  <a href="https://fluentAssertions.com" alt="FluentAssertions">
+        <img alt="Nuget" src="https://img.shields.io/nuget/dt/FluentAssertions.svg?label=FluentAssertions&logo=FluentAssertions"></a>
+  <a href="https://nunit.org" alt="NUnit">
+        <img alt="Nuget" src="https://img.shields.io/nuget/dt/NUnit.svg?label=NUnit&logo=NUnit"></a>
+</p>
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
