@@ -46,3 +46,11 @@
 * [Contact](#contact)
 
 <!-- ABOUT THE PROJECT -->
+
+<!-- CONTACT -->
+## Contact
+
+Mahmoud A. Zaid - [Linkedin](https://www.linkedin.com/in/mahmoudazaid/)
+
+Project Link: [RestSharp.Demo](https://github.com/mahmoudazaid/Appium.Test)
+
