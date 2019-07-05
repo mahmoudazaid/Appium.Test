@@ -1,9 +1,9 @@
 <!-- PROJECT SHIELDS -->
 <p align="center">
+    <a href="http://appium.io" alt="Appium">
+        <img alt="Nuget" src="https://img.shields.io/badge/-Appium-brightgreen.svg"></a>
     <a href="https://specflow.org/" alt="SpecFlow">
         <img alt="Nuget" src="https://img.shields.io/nuget/dt/SpecFlow.svg?label=SpecFlow&logo=SpecFlow"></a>   
-  <a href="http://appium.io" alt="Appium">
-        <img alt="Nuget" src="https://img.shields.io/badge/-Appium-green.svg"></a>
   <a href="https://fluentAssertions.com" alt="FluentAssertions">
         <img alt="Nuget" src="https://img.shields.io/nuget/dt/FluentAssertions.svg?label=FluentAssertions&logo=FluentAssertions"></a>
   <a href="https://nunit.org" alt="NUnit">
@@ -15,9 +15,7 @@
 <p align="center">
   <a href="https://github.com/mahmoudazaid/RestSharp.Demo">
     <img src="Images/Appium.jpg" alt="Logo">
-  </a>
-  <h3 align="center">Appium.Test</h3>
-  
+  </a>  
    <p align="center">
     <br />
     <a href="#about-the-project"><strong>Read Instructions »</strong></a>
