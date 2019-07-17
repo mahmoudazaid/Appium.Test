@@ -1,10 +1,9 @@
 <!-- PROJECT SHIELDS -->
-<p align="center">    
+<p align="center">        
     <a href="https://www.seleniumhq.org" alt="Selenium">
-        <img alt="Nuget" src="https://img.shields.io/badge/-Selenium-blue.svg"></a>
-     <a href="http://appium.io" alt="Appium">
-        <img alt="Nuget" src="https://img.shields.io/badge/-Appium-blue.svg"></a>
-    <br/>
+        <img alt="Nuget" src="https://img.shields.io/nuget/dt/selenium.webdriver.svg?label=Selenium"></a>     
+    <a href="http://appium.io" alt="Appium">
+        <img alt="Nuget" src="https://img.shields.io/nuget/dt/Appium.Webdriver.svg?label=Appium"></a>
     <a href="https://specflow.org/" alt="SpecFlow">
         <img alt="Nuget" src="https://img.shields.io/nuget/dt/SpecFlow.svg?label=SpecFlow&logo=SpecFlow"></a>   
   <a href="https://fluentAssertions.com" alt="FluentAssertions">
