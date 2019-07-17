@@ -1,13 +1,13 @@
 <!-- PROJECT SHIELDS -->
 <p align="center">        
     <a href="https://www.seleniumhq.org" alt="Selenium">
-        <img alt="Nuget" src="https://img.shields.io/nuget/dt/selenium.webdriver.svg?label=Selenium"></a>     
+        <img alt="Selenium" src="https://img.shields.io/nuget/dt/selenium.webdriver.svg?label=Selenium"></a>     
     <a href="http://appium.io" alt="Appium">
-        <img alt="Nuget" src="https://img.shields.io/nuget/dt/Appium.Webdriver.svg?label=Appium"></a>
+        <img alt="Appium" src="https://img.shields.io/nuget/dt/Appium.Webdriver.svg?label=Appium"></a>
     <a href="https://specflow.org/" alt="SpecFlow">
-        <img alt="Nuget" src="https://img.shields.io/nuget/dt/SpecFlow.svg?label=SpecFlow&logo=SpecFlow"></a>   
+        <img alt="SpecFlow" src="https://img.shields.io/nuget/dt/SpecFlow.svg?label=SpecFlow&logo=SpecFlow"></a>   
   <a href="https://fluentAssertions.com" alt="FluentAssertions">
-        <img alt="Nuget" src="https://img.shields.io/nuget/dt/FluentAssertions.svg?label=FluentAssertions&logo=FluentAssertions"></a>
+        <img alt="FluentAsserions" src="https://img.shields.io/nuget/dt/FluentAssertions.svg?label=FluentAssertions&logo=FluentAssertions"></a>
   <a href="https://nunit.org" alt="NUnit">
         <img alt="Nuget" src="https://img.shields.io/nuget/dt/NUnit.svg?label=NUnit&logo=NUnit"></a>  
 </p>
