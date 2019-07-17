@@ -9,7 +9,7 @@
   <a href="https://fluentAssertions.com" alt="FluentAssertions">
         <img alt="FluentAsserions" src="https://img.shields.io/nuget/dt/FluentAssertions.svg?label=FluentAssertions&logo=FluentAssertions"></a>
   <a href="https://nunit.org" alt="NUnit">
-        <img alt="Nuget" src="https://img.shields.io/nuget/dt/NUnit.svg?label=NUnit&logo=NUnit"></a>  
+        <img alt="Nunit" src="https://img.shields.io/nuget/dt/NUnit.svg?label=NUnit&logo=NUnit"></a>  
 </p>
 
 <!-- PROJECT LOGO -->
